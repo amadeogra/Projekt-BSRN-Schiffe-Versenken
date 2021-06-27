@@ -1,3 +1,9 @@
+
+"""
+Amadeo Granillo, Abdul Karim Kanbar, Juan Carlos Moreno
+
+"""
+
 import argparse
 import curses
 import random
